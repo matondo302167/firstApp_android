@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "380588471990",
+    "firebase_url": "https://firstapp-a8bdd.firebaseio.com",
+    "project_id": "firstapp-a8bdd",
+    "storage_bucket": "firstapp-a8bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380588471990:android:465b615b65bb69d9eed817",
+        "android_client_info": {
+          "package_name": "com.matondo302167.firstApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380588471990-28q09r9e5j7fdrf6lfqpkqr68aevnrc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUZvKHr4UO6kGaHKRCweRiuf2XIVJXbMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380588471990-28q09r9e5j7fdrf6lfqpkqr68aevnrc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

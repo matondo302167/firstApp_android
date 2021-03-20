@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "OSA CONSULTING",
+    "slug": "firstApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/osa-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptative-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.matondo302167.firstApp",
+      "versionCode": 5
+    },
+    "web": {
+      "favicon": "./assets/osa-icon.png"
+    }
+  }
+}
